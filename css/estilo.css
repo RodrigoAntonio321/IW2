@@ -1,0 +1,14 @@
+.titulos {
+    padding-top: 2%;
+    text-align: center;
+    color: white;
+
+}
+ .card{
+    margin-top: 5%;
+ }
+
+ .card-body {
+    background-color: rgb(196, 191, 191);
+
+ }
